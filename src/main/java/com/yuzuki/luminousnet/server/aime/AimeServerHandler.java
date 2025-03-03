@@ -1,7 +1,7 @@
-package com.natukikana.luminousnet.server.aime;
+package com.yuzuki.luminousnet.server.aime;
 
-import com.natukikana.luminousnet.utils.AimeUtils;
-import com.natukikana.luminousnet.utils.ByteBufUtils;
+import com.yuzuki.luminousnet.utils.AimeUtils;
+import com.yuzuki.luminousnet.utils.ByteBufUtils;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelFutureListener;

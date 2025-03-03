@@ -1,6 +1,5 @@
-package com.natukikana.luminousnet.server.aime;
+package com.yuzuki.luminousnet.server.aime;
 
-import com.natukikana.luminousnet.utils.LuminousNetUtils;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;

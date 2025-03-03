@@ -1,9 +1,9 @@
-package com.natukikana.luminousnet.controller.chusan;
+package com.yuzuki.luminousnet.controller.chusan;
 
 import com.alibaba.fastjson2.JSONObject;
 import com.alibaba.fastjson2.TypeReference;
 import com.fasterxml.jackson.databind.util.JSONPObject;
-import com.natukikana.luminousnet.utils.ZLibUtils;
+import com.yuzuki.luminousnet.utils.ZLibUtils;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

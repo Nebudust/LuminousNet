@@ -1,4 +1,4 @@
-package com.natukikana.luminousnet;
+package com.yuzuki.luminousnet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

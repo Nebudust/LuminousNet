@@ -1,4 +1,4 @@
-package com.natukikana.luminousnet.server.aime;
+package com.yuzuki.luminousnet.server.aime;
 
 import java.net.InetSocketAddress;
 

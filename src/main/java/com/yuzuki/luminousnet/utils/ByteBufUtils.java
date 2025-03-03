@@ -1,4 +1,4 @@
-package com.natukikana.luminousnet.utils;
+package com.yuzuki.luminousnet.utils;
 
 import io.netty.buffer.ByteBuf;
 

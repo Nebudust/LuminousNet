@@ -1,6 +1,6 @@
-package com.natukikana.luminousnet;
+package com.yuzuki.luminousnet;
 
-import com.natukikana.luminousnet.utils.LuminousNetUtils;
+import com.yuzuki.luminousnet.utils.LuminousNetUtils;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.scheduling.annotation.EnableAsync;
